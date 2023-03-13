@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 12414124124 kong
+=======
+12414124124dfdsfdsdfgunbbang
+>>>>>>> origin/KongSeungHwan
