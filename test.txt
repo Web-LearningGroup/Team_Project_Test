@@ -4,12 +4,3 @@
 12414124124dfdsfdsdfgunbbang
 >>>>>>> origin/KongSeungHwan
 12341234/kimjh
-package Prac;
-
-public class Web{
-
-	public static void main(String args[]){
-		
-		int a;
-	}
-}
